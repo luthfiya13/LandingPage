@@ -36,7 +36,7 @@
 }
 
 .user-pic.active-pic {
-    border: 2px solid #ff7d3b;
+    border: 2px solid #ffffff;
 }
 
 @keyframes moveup {

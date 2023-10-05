@@ -18,10 +18,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "color-primary": "#01051e",
-        "color-primary-light": "#020726",
-        "color-primary-dark": "#010417",
-        "color-secondary": "#ff7d3b",
+        "color-primary": "#003E4B",
+        "color-primary-light": "#005454",
+        "color-primary-dark": "#001921",
+        "color-secondary": "#32a899",
         "color-gray": "#333",
         "color-white": "#fff",
         "color-blob": "#A427DF",
